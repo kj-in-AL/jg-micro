@@ -13,3 +13,5 @@ Section 14: Service Registry with Eureka
 - Load balancer for registered services included in Eureka Server
 - MAVEN IS MADDENING 
 
+Section 15: API Gateway Server with use of LB from SR in app prop
+
