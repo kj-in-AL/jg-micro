@@ -6,7 +6,7 @@ import net.javaguides.departmentservice.entity.Department;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2023-06-03T18:01:35-0500",
+    date = "2023-06-03T22:07:37-0500",
     comments = "version: 1.5.5.Final, compiler: javac, environment: Java 17.0.2 (Oracle Corporation)"
 )
 public class DepartmentMapperImpl implements DepartmentMapper {

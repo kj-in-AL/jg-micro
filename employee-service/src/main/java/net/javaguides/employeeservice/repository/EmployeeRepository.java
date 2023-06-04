@@ -6,5 +6,4 @@ import net.javaguides.employeeservice.entity.Employee;
 
 public interface EmployeeRepository extends JpaRepository<Employee, Long>{
 
-	
 }

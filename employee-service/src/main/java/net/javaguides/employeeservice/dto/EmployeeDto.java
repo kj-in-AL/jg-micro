@@ -6,17 +6,19 @@ public class EmployeeDto {
 	private String firstName;
 	private String lastName;
 	private String email;
-	
+	private String departmentCode;
+
 	public EmployeeDto() {
 		
 	}
 	
-	public EmployeeDto(Long id, String firstName, String lastName, String email) {
+	public EmployeeDto(Long id, String firstName, String lastName, String email, String departmentCode) {
 		super();
 		this.id = id;
 		this.firstName = firstName;
 		this.lastName = lastName;
 		this.email = email;
+		this.departmentCode = departmentCode;
 	}
 	public Long getId() {
 		return id;
@@ -30,6 +32,9 @@ public class EmployeeDto {
 	public String getEmail() {
 		return email;
 	}
+	public String getDepartmentCode() {
+		return departmentCode;
+	}
 	public void setId(Long id) {
 		this.id = id;
 	}
@@ -42,6 +47,8 @@ public class EmployeeDto {
 	public void setEmail(String email) {
 		this.email = email;
 	}
-	
+	public void setDepartmentCode(String departmentCode) {
+		this.departmentCode = departmentCode;
+	}
 	
 }

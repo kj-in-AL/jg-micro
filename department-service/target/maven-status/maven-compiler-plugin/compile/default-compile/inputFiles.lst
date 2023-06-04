@@ -1,3 +1,4 @@
+/Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/exception/ErrorDetails.java
 /Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/repository/DepartmentRepository.java
 /Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/controller/DepartmentController.java
 /Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/DepartmentServiceApplication.java
@@ -5,4 +6,6 @@
 /Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/mapper/DepartmentMapper.java
 /Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/dto/DepartmentDto.java
 /Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/service/DepartmentService.java
+/Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/exception/ResourceNotFoundException.java
+/Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/exception/GlobalExceptionHandler.java
 /Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/service/impl/DepartmentServiceImpl.java
