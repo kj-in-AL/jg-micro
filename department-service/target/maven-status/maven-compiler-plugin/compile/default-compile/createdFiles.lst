@@ -9,4 +9,5 @@ net/javaguides/departmentservice/entity/Department.class
 net/javaguides/departmentservice/repository/DepartmentRepository.class
 net/javaguides/departmentservice/exception/GlobalExceptionHandler.class
 net/javaguides/departmentservice/exception/ResourceNotFoundException.class
+net/javaguides/departmentservice/controller/MessageController.class
 net/javaguides/departmentservice/controller/DepartmentController.class

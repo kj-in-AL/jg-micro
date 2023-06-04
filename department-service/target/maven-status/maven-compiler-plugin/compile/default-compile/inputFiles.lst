@@ -8,4 +8,5 @@
 /Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/service/DepartmentService.java
 /Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/exception/ResourceNotFoundException.java
 /Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/exception/GlobalExceptionHandler.java
+/Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/controller/MessageController.java
 /Users/jlyke/Documents/microservices-project/department-service/src/main/java/net/javaguides/departmentservice/service/impl/DepartmentServiceImpl.java
