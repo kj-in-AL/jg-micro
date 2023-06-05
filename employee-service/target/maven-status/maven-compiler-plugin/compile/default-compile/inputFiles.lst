@@ -2,6 +2,7 @@
 /Users/jlyke/Documents/microservices-project/employee-service/src/main/java/net/javaguides/employeeservice/controller/EmployeeController.java
 /Users/jlyke/Documents/microservices-project/employee-service/src/main/java/net/javaguides/employeeservice/service/EmployeeService.java
 /Users/jlyke/Documents/microservices-project/employee-service/src/main/java/net/javaguides/employeeservice/exception/ErrorDetails.java
+/Users/jlyke/Documents/microservices-project/employee-service/src/main/java/net/javaguides/employeeservice/controller/MessageController.java
 /Users/jlyke/Documents/microservices-project/employee-service/src/main/java/net/javaguides/employeeservice/dto/DepartmentDto.java
 /Users/jlyke/Documents/microservices-project/employee-service/src/main/java/net/javaguides/employeeservice/dto/EmployeeDto.java
 /Users/jlyke/Documents/microservices-project/employee-service/src/main/java/net/javaguides/employeeservice/mapper/EmployeeMapper.java

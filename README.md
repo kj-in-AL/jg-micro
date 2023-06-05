@@ -15,3 +15,6 @@ Section 14: Service Registry with Eureka
 
 Section 15: API Gateway Server with use of LB from SR in app prop
 
+Section 16: Simplify properties for microservices with Config server
+
+Section 17: Use Spring Cloud Bus and RabbitMQ to refresh config files of all subscribers by single call to /busrefresh endpoint of a subscriber - docker image of rabbitmq 
