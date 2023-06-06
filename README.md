@@ -17,4 +17,9 @@ Section 15: API Gateway Server with use of LB from SR in app prop
 
 Section 16: Simplify properties for microservices with Config server
 
-Section 17: Use Spring Cloud Bus and RabbitMQ to refresh config files of all subscribers by single call to /busrefresh endpoint of a subscriber - docker image of rabbitmq 
+Section 17: Use Spring Cloud Bus and RabbitMQ to refresh config files of all subscribers by single call to /busrefresh endpoint of a subscriber - docker image of rabbitmq
+
+Section 18: Distributed Tracing, but SC Sleuth and Zipkin are not supported in 2022.0.0 and beyond
+
+Section 19: Circuit Breaking and Retry with Resilience4j
+ 
