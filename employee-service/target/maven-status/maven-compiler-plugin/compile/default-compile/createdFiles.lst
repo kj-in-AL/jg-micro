@@ -14,3 +14,4 @@ net/javaguides/employeeservice/exception/ErrorDetails.class
 net/javaguides/employeeservice/controller/MessageController.class
 net/javaguides/employeeservice/dto/APIResponseDto.class
 net/javaguides/employeeservice/mapper/EmployeeMapperImpl.class
+net/javaguides/employeeservice/dto/OrganizationDto.class

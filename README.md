@@ -22,4 +22,6 @@ Section 17: Use Spring Cloud Bus and RabbitMQ to refresh config files of all sub
 Section 18: Distributed Tracing, but SC Sleuth and Zipkin are not supported in 2022.0.0 and beyond
 
 Section 19: Circuit Breaking and Retry with Resilience4j
- 
+
+Section 21: Adding new microservice (distributed tracing features in 20 are outdated) 
+

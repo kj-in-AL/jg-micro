@@ -6,7 +6,7 @@ import net.javaguides.employeeservice.entity.Employee;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2023-06-05T21:05:51-0500",
+    date = "2023-06-06T20:20:30-0500",
     comments = "version: 1.5.5.Final, compiler: javac, environment: Java 17.0.2 (Oracle Corporation)"
 )
 public class EmployeeMapperImpl implements EmployeeMapper {
@@ -24,6 +24,7 @@ public class EmployeeMapperImpl implements EmployeeMapper {
         employeeDto.setLastName( employee.getLastName() );
         employeeDto.setEmail( employee.getEmail() );
         employeeDto.setDepartmentCode( employee.getDepartmentCode() );
+        employeeDto.setOrganizationCode( employee.getOrganizationCode() );
 
         return employeeDto;
     }
@@ -41,6 +42,7 @@ public class EmployeeMapperImpl implements EmployeeMapper {
         employee.setLastName( employeeDto.getLastName() );
         employee.setEmail( employeeDto.getEmail() );
         employee.setDepartmentCode( employeeDto.getDepartmentCode() );
+        employee.setOrganizationCode( employeeDto.getOrganizationCode() );
 
         return employee;
     }
